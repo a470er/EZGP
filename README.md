@@ -17,7 +17,8 @@ ImageJ https://imagej.net/index.html
 Fiji https://fiji.sc
 
 ### 2.	プラグイン　ActionBarのインストール
-ActionBar https://imagejdocu.tudor.lu/doku.php?id=plugin:utilities:action_bar:start
+ActionBar 
+https://figshare.com/articles/dataset/Custom_toolbars_and_mini_applications_with_Action_Bar/3397603
 ファイル構成
 ImageJ/plugins/ActionBar/ 
 ImageJ/plugins/ActionBar/icons/ 
