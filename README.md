@@ -26,7 +26,7 @@ ImageJ/plugins/ActionBar/Action_Bar.jar
 ### 3.	_EZGP.txtマクロファイルのインストール
 ファイル構成
 		ImageJ/pluguins/ActionBar/_EZGP.txt
-### 4.	使用方法
+## 4.	使用方法
 EZGPを起動して、画像ファイルをドロップして開く
 視野計測に適した画角に調整
 基準線の指定：中心０度か水平に右へ90度までドラッグし、OKボタンをクリック
